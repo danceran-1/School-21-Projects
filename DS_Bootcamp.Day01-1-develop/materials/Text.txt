@@ -1,0 +1,6 @@
+ivan.petrov@corp.com
+anna.sidorova@corp.com
+john.doe@corp.com
+maria.ivanova@corp.com
+peter.jones@corp.com
+
